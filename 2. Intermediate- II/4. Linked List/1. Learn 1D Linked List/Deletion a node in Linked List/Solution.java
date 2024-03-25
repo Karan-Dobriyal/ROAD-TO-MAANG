@@ -26,7 +26,7 @@ public class Solution
         System.out.println("Original Linked List");
         printLinkedList(dummyHead);
 
-        // Deletion from a Linekd List.
+        // Deletion from a Linked List.
 
         // 1. Delete the Head
         Node newHead = deleteHeadFromFirst(dummyHead); 
