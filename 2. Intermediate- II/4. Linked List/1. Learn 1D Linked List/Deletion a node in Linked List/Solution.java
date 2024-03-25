@@ -35,7 +35,7 @@ public class Solution
         System.out.println("Delete From Head");
         printLinkedList(newHead);
 
-        // 2. Delete From the Middle
+        // 2. Delete From the Specific Element
         int element = 2;
         Node newLinkedList = deleteElement(dummyHead,element);
         System.out.println();
@@ -43,7 +43,7 @@ public class Solution
         System.out.println("Delete Specific Element " + element);
         printLinkedList(newLinkedList);
 
-        // 3. Delete From the Middle
+        // 3. Delete From the Specific Postion
         int k = 7;
         Node newLL = deleteFromPosition(dummyHead,k);
         System.out.println();
@@ -149,6 +149,7 @@ public class Solution
         {
             Node temp = head;
             temp = temp.next;
+            return head;
         }
 
         Node prev = null;
