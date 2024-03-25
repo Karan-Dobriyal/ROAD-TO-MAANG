@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class Node {
     public int data;
     public Node next;
@@ -22,8 +20,6 @@ public class Solution
 {
     public static void main(String[] args)
     {
-        Scanner sc = new Scanner(System.in);
-        sc.close();
         int[] arr = {1,2,3,4,5,6};
         Node head = convertArrayToLL(arr);
         Node temp = head;

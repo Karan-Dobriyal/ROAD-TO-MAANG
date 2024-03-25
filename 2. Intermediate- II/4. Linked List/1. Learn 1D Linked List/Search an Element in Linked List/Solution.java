@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class Node {
     public int data;
     public Node next;
