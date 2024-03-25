@@ -1,0 +1,14 @@
+Original Linked List
+1 --> 2 --> 3 --> 4 --> 5 --> Null
+
+Insert At Head
+0 --> 1 --> 2 --> 3 --> 4 --> 5 --> Null
+
+Insert At Specific Element 20
+1 --> 2 --> 3 --> 4 --> 20 --> 5 --> Null
+
+Insert At Specific Element Before Old 20
+1 --> 2 --> 3 --> 4 --> 70 --> 20 --> 5 --> Null
+
+Insert At Last
+1 --> 2 --> 3 --> 4 --> 70 --> 20 --> 5 --> 6 --> Null
