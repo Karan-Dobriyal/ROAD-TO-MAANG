@@ -1,0 +1,13 @@
+1 --> 2 --> 3 --> 4 --> 5 --> 6 --> Null
+
+Insert at Head
+10 --> 1 --> 2 --> 3 --> 4 --> 5 --> 6 --> Null
+
+Insert Before Node
+10 --> 1 --> 2 --> 3 --> 4 --> 5 --> 6 --> Null
+
+Insert at Before Position
+1 --> 2 --> 3 --> 70 --> 4 --> 5 --> 6 --> Null
+
+Insert at Before Last
+1 --> 2 --> 3 --> 4 --> 5 --> 100 --> 6 --> Null
