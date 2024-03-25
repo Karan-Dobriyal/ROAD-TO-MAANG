@@ -8,8 +8,16 @@ Welcome to the Data Structures and Algorithms Course. Are you ready to JOIN MAAN
 This Repo contains all Striver's A-Z Question. Plus More Important Question from Interview Bit with these combo you can crack any Big Tech comapnies in the world.
 # Stay Focused #Stay Consistent # Never Give UP <img style="height: 80px; width: 100px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
 
-<img style="height: 400px; width: 1000px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
+ <div style="overflow: hidden;">
+  <div style="float: left; width: 33.33%; padding: 5px;"> 
+     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:30%" />
+  </div>
+  <div style="float: left; width: 33.33%; padding: 5px;">
+    <img src="https://leetcard.jacoblin.cool/Karan_Dobriyal?ext=activity" alt="Second Image" style="width:30%">   
+  </div> 
+</div>
+ 
+ 
  
 ## Contents
 
@@ -60,7 +68,7 @@ This Repo contains all Striver's A-Z Question. Plus More Important Question from
 </table>
 
 
-![](https://leetcard.jacoblin.cool/Karan_Dobriyal?ext=activity)
+
 
 
 
