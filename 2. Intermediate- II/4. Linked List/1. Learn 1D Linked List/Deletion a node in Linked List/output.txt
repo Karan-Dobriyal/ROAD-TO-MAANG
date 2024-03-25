@@ -1,0 +1,14 @@
+Original Linked List
+1 --> 2 --> 3 --> 4 --> 5 --> Null
+
+Delete From Head
+2 --> 3 --> 4 --> 5 --> Null
+
+Delete Specific Element 2
+1 --> 3 --> 4 --> 5 --> Null
+
+Delete From Postion 7
+1 --> 3 --> 4 --> 5 --> Null
+
+Delete From Tail
+1 --> 3 --> 4 --> Null
