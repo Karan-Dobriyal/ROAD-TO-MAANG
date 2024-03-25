@@ -14,32 +14,8 @@ Welcome to the Data Structures and Algorithms Course repository! This repository
 
 Data Structures and Algorithms (DSA) form the backbone of computer science and are essential for solving complex computational problems efficiently. Whether you're a beginner just starting your journey in programming or an experienced developer looking to deepen your understanding, this course will equip you with the necessary knowledge and skills to tackle a wide range of challenges.
 
-## Course Highlights
 
-- **Comprehensive Coverage**: Learn about various data structures such as arrays, linked lists, trees, graphs, and more, along with essential algorithms for sorting, searching, and optimization.
-  
-- **Hands-on Practice**: Reinforce your learning with coding exercises, projects, and real-world problem-solving scenarios.
-  
-- **Interactive Learning**: Engage with interactive visualizations, demonstrations, and code examples to enhance your understanding of complex concepts.
-
-## Who is this Course for?
-
-This course is suitable for:
-- Students studying computer science or related fields
-- Software developers seeking to strengthen their understanding of DSA
-- Anyone preparing for coding interviews at top tech companies
-
-## Prerequisites
-
-While no prior knowledge of data structures and algorithms is required, familiarity with at least one programming language (e.g., Python, Java, C++) is recommended to fully benefit from the course content.
-
-## Getting Started
-
-To get started with the course, simply clone this repository to your local machine and explore the provided materials. Dive into the lectures, work on assignments, and engage with the community to maximize your learning experience.
-
-Let's embark on this exciting journey into the world of Data Structures and Algorithms together!
-
-Happy Coding! 🚀
+## Contents
 
 <div style="display: flex; justify-content: space-between;">
  <!-- Data Structures and Algorithms Course Syllabus -->
