@@ -9,11 +9,8 @@ This Repo contains all Striver's A-Z Question. Plus More Important Question from
 # Stay Focused #Stay Consistent # Never Give UP <img style="height: 80px; width: 100px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
 
  <div style="overflow: hidden;">
-  <div style="float: left; width: 33.33%; padding: 5px;"> 
-     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:30%" />
-  </div>
   <div style="float: left; width: 33.33%; padding: 5px;">
-    <img src="https://leetcard.jacoblin.cool/Karan_Dobriyal?ext=activity" alt="Second Image" style="width:30%">   
+    <img src="https://leetcard.jacoblin.cool/Karan_Dobriyal?ext=activity" alt="Second Image" style="width:60%">   
   </div> 
 </div>
  
@@ -23,7 +20,6 @@ This Repo contains all Striver's A-Z Question. Plus More Important Question from
 
 <div style="display: flex; justify-content: space-between;">
  <!-- Data Structures and Algorithms Course Syllabus -->
-
 <table>
   <tr>
     <th>Intermediate- I</th>
