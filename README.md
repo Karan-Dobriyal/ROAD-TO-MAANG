@@ -1,17 +1,16 @@
 
-# ROAD TO MAANG <img style="height: 100px; " src = "https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/>
-
- 
+# ROAD TO MAANG  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="50" height="50" />
 
 <!-- Data Structures and Algorithms Course README -->
  
 
 Welcome to the Data Structures and Algorithms Course. Are you ready to JOIN MAANG or any Big tech Company. Then this is the right place for you. 
 This Repo contains all Striver's A-Z Question. Plus More Important Question from Interview Bit with these combo you can crack any Big Tech comapnies in the world.
+# Stay Focused #Stay Consistent # Never Give UP <img style="height: 80px; width: 100px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
 
+<img style="height: 400px; width: 1000px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-[![Data Structures and Algorithms GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+ 
 ## Contents
 
 <div style="display: flex; justify-content: space-between;">
