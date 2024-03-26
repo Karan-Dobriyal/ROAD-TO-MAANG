@@ -1,0 +1,5 @@
+Original Linked List
+1 --> 0 --> 2 --> 1 --> 0 --> 2 --> 1 --> Null
+
+Sorted List
+0 --> 0 --> 1 --> 1 --> 1 --> 2 --> 2 --> Null
