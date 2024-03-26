@@ -1,0 +1,5 @@
+Original Linked List
+1 --> 2 --> 3 --> 4 --> 5 --> Null
+
+Deleted Kth Node from End
+1 --> 2 --> 3 --> 5 --> Null
