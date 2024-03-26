@@ -1,0 +1,5 @@
+Original Linked List
+1 --> 2 --> 3 --> 4 --> 5 --> Null
+
+ Middle Of Linked List
+3 --> 4 --> 5 --> Null
