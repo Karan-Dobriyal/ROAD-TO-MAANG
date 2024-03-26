@@ -32,11 +32,19 @@ public class Solution
         System.out.println();
         System.out.println();
 
-        // Delete Kth Node From End
+        // Reverse Linked List Itreative
         Node inputList = convertArrayToLL(arr); 
-        System.out.println("Deleted Kth Node from End");
-        Node newLL = deleteKNodeFromEnd(inputList,2); 
+        System.out.println("Reversed Linked List Itreative");
+        Node newLL = reverseLinkedListItreative(inputList); 
         printLinkedList(newLL);
+        System.out.println();
+        System.out.println();
+        
+        // Reverse Linked List Revursive
+        Node inputList1 = convertArrayToLL(arr); 
+        System.out.println("Reversed Linked List recursive");
+        Node newLL1 = reverseLinkedListRecursive(inputList1); 
+        printLinkedList(newLL1);
     }
 
     // Convert array into the linked list.
@@ -66,23 +74,26 @@ public class Solution
         System.out.print("Null");
     }
 
-    // Delete Kth Node
-    private static Node deleteKNodeFromEnd(Node head, int K)
+    // Reversed Linked List Itreative
+    private static Node reverseLinkedListItreative(Node head)
     {
-        Node fast = head;
-        Node slow = head;
+        Node prev = null;
+        Node currentNode = head;
 
-        for(int i=0; i<K; i++) fast = fast.next;
-
-        if(fast == null) return head.next;
-
-        while(fast.next != null)
+        while(currentNode != null)
         {
-            fast = fast.next;
-            slow = slow.next;
+            Node front = currentNode.next;
+            currentNode.next = prev;
+            prev = currentNode;
+            currentNode = front;
         }
-        slow.next = slow.next.next;
+        return prev;
+    }
+
+    private static Node reverseLinkedListRecursive(Node head)
+    {
         return head;
     }
+
 }
 
