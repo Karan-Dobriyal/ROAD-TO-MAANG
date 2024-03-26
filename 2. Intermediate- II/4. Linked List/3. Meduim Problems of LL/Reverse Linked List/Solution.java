@@ -39,7 +39,7 @@ public class Solution
         printLinkedList(newLL);
         System.out.println();
         System.out.println();
-        
+
         // Reverse Linked List Revursive
         Node inputList1 = convertArrayToLL(arr); 
         System.out.println("Reversed Linked List recursive");
@@ -92,8 +92,16 @@ public class Solution
 
     private static Node reverseLinkedListRecursive(Node head)
     {
-        return head;
-    }
+        if(head == null || head.next == null)
+        {
+            return head;
+        }
 
+        Node newHead = reverseLinkedListRecursive(head.next);
+        Node front = head.next;
+        front.next = head;
+        head.next = null;
+        return newHead;
+    }
 }
 

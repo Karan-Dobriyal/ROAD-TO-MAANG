@@ -5,4 +5,4 @@ Reversed Linked List Itreative
 5 --> 4 --> 3 --> 2 --> 1 --> Null
 
 Reversed Linked List recursive
-1 --> 2 --> 3 --> 4 --> 5 --> Null
+5 --> 4 --> 3 --> 2 --> 1 --> Null
