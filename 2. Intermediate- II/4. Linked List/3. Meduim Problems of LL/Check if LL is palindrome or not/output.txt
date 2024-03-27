@@ -1,0 +1,5 @@
+Original Linked List
+1 --> 2 --> Null
+
+is Linked List Plaindrome?
+false
