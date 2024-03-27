@@ -1,0 +1,5 @@
+Original Linked List
+1 --> 5 --> 9 --> Null
+
+Add one to Linked List
+1 --> 6 --> 0 --> Null
