@@ -32,7 +32,7 @@ public class Solution
         System.out.println();
         System.out.println();
 
-        // Odd Even Linked List 
+        // Sort Linked List 0,1,2
         Node inputList = convertArrayToLL(arr); 
         System.out.println("Sorted List");
         Node sortedList = sortZeroOneTwoList(inputList); 
@@ -66,7 +66,7 @@ public class Solution
         System.out.print("Null");
     }
 
-    // Odd Even Linked List
+    //  Sort Linked List 0,1,2
     private static Node sortZeroOneTwoList(Node head)
     {
         if (head == null || head.next == null)
