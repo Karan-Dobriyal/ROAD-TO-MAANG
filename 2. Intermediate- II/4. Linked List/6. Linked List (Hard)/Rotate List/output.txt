@@ -1,0 +1,5 @@
+Original Linked List
+1 --> 2 --> 3 --> 4 --> 5 --> Null
+
+Rotated List by 2
+4 --> 5 --> 1 --> 2 --> 3 --> Null
